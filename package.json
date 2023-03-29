@@ -3,10 +3,8 @@
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
-  "scripts": {
-    "start": "node src/server.ts"
-    "dev": "ts-node-dev src/server.ts",
-    
+  "scripts": {    
+    "dev": "ts-node-dev src/server.ts"    
   },
   "devDependencies": {
     "@types/cors": "^2.8.13",
